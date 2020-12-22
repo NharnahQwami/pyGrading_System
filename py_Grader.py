@@ -26,5 +26,5 @@ else:
     print(f'{name}, Your grade is an F9')
 
 
-# ~by Dessy
+
 
